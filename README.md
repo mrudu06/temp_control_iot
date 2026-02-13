@@ -1,4 +1,4 @@
-# temp_control_iot
+ # temp_control_iot
 This is a simple IOT project using Raspberry pi (https://www.raspberrypi.com/products/raspberry-pi-3-model-b/)and DHT22 sensor(https://www.instructables.com/How-to-use-DHT-22-sensor-Arduino-Tutorial/).The data recieved is then publishes in the form of a table and bar graph using [Python Flask] (http://flask.pocoo.org/) and [PostgreSQL](https://www.postgresql.org/).
 
 ## Installation
