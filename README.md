@@ -8,7 +8,7 @@ This is a simple IOT project using Raspberry pi (https://www.raspberrypi.com/pro
 - Raspberry Pi with Raspbian OS
 - DHT22 Sensor
 - Python 3.7+
-- PostgreSQL
+- PostgreSQL 
 
 ### Hardware Setup
 
